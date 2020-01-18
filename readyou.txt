@@ -4,5 +4,5 @@ Git has a mutable index called stage
 Git tracks changes of files
 Creating a new branch is really quick AND simple.
 I perfer git than svn.
-Git branch test ok.
+Git branch test is ok.
 
