@@ -1,6 +1,5 @@
 # learngit
-### git command practice
-
+## git command practice
 * test jenkins
 * test jenkins connection
 * I don't konw how to fix the conflict caused by revert command
